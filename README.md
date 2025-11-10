@@ -199,3 +199,4 @@ The Logistic Regression model (85% accuracy) provides interpretable and actionab
 
 https://github.com/user-attachments/assets/999a2ba0-67e7-4842-b7ab-8d55047dac6e
 
+Training video is in PPT
